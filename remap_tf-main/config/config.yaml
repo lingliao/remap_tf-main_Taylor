@@ -1,0 +1,10 @@
+#Directory locations
+repo_dir: "/data/sundbyrt/repos/remap"
+input_dir: "/data/panalc/cfdna-wgs-data/analysis/cfdna_wgs/bams"
+output_dir: "/data/sundbyrt/repos/remap/analysis"
+
+#Reference
+remap: "/data/sundbyrt/repos/remap/data/remap2022_crm_macs2_hg38_v1_0_autosomes.bed"
+
+#Samples
+samples: "/data/sundbyrt/repos/remap/data/sample_list.csv"
